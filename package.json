@@ -1,0 +1,19 @@
+{
+  "name": "fastify-bun",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/uuid": "^9.0.8"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@fastify/busboy": "^2.1.1",
+    "@fastify/multipart": "^8.1.0",
+    "fastify": "^4.26.2",
+    "tsx": "^4.7.1",
+    "uuid": "^9.0.1"
+  }
+}
