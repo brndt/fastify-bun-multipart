@@ -1,15 +1,15 @@
 # fastify-bun
 
-To install dependencies:
+Using node
 
 ```bash
-bun install
+npx tsx ./index.ts
 ```
 
-To run:
+Using bun
 
 ```bash
-bun run index.ts
+bun ./script.ts
 ```
 
-This project was created using `bun init` in bun v1.0.30. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+<img width="1067" alt="Screenshot 2024-03-03 at 23 07 14" src="https://github.com/brndt/fastify-bun-multipart/assets/21007364/6764d618-a0dd-427d-8b7c-1f7cc4a387cf">
